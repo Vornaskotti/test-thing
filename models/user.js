@@ -6,3 +6,5 @@ let Schema = mongoose.Schema({
 })
 
 module.exports = mongoose.model("User",Schema);
+
+//testi
